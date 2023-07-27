@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-brand{
+    font-family: 'Handjet', cursive;
+    font-size: larger;
+    padding-bottom: 100px;
+}
+
+p{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ol{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.botones-container {
+    margin-top: 20px; /* Ajusta el valor según el espacio que desees entre el encabezado y los botones */
+}
+
